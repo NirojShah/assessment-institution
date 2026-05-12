@@ -2,6 +2,9 @@
 
 A minimal yet fully functional Admission Management system built on the **MERN** stack (MongoDB, Express, React, Node.js). It strictly enforces real-time seat quota limitations and offers a premium UI design built meticulously using **pure Vanilla CSS** (no Tailwind/Bootstrap).
 
+
+
+
 ---
 
 ## 🚀 Features Implemented
